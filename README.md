@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |   Dr.A.N.AMUDHAN    |  ASSISTANT PROFESSOR  |        MECHANICAL       | an_amudhal@cb.amrita.edu |
+| Academic       |   Dr.A.N.AMUDHAN    |  ASSISTANT PROFESSOR  |        MECHANICAL       | an_amudhan@cb.amrita.edu |
 | Industry       |                     |                       |                         |                          |
 
 -----
